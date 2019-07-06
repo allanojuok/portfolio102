@@ -195,3 +195,12 @@ a {
 a:hover, a:focus, a:active {
   color:rgb(129, 56, 189);
 }
+
+
+.academybadge{
+  width: 100px;
+  height: 100px;
+     
+  
+  }
+}
